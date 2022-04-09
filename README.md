@@ -13,3 +13,19 @@ Q1. There are only two letters which matter in the equation. The RHS of equation
 Q2. Check out the given engines on google maybe? (A popular software - two words in the name - is expected. One space between the two words and all letters capital).
 
 Q3. Some linux trivia... (A two lettered single word expected, all caps).
+
+#### Stage 2:
+
+Q1. Use Shazam's real name as it appears in DC Comics. Two worded in the format: Firstname Lastname (first letter capital).
+
+Q2. Hint: Number systems. Hint 2: Squidward is an **octopus**.
+
+Q3. Morse is an encoding and so is ROT-13.
+
+#### Stage 3:
+
+Q1. You get 3 weights of each value you purchase. You can thus utilize the values in several different ways (example keeping one weight on one side and 2 weights on the other side of the balance. Try to use this to find which weights you can buy and what permutation can be used.
+
+Q2. Note that gcd(a, b) = gcd(a, a-b) = gcd (a, a+b) and so on... Thus all destinations they should visit have the same gcd. 
+
+
