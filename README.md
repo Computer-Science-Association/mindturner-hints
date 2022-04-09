@@ -34,7 +34,7 @@ Q1. Straight permutations and combinations questions. There's no twist here.
 
 #### Stage 5: 
 
-Q1. Heard of a Spectrometer?
+Q1. Heard of a Spectrogram?
 
 #### Stage 6:
 
