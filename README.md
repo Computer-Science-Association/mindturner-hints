@@ -36,3 +36,11 @@ Q1. Straight permutations and combinations questions. There's no twist here.
 
 Q1. Heard of a Spectrometer?
 
+#### Stage 6:
+
+Q1. What do we do if a python package isn't on our local machine? That's right - pip install mindturner!
+
+#### Stage 7:
+
+Q1. ![image](https://user-images.githubusercontent.com/61305934/162587485-8d8437ef-6c28-4f4c-8b1f-b1cc46d69d9b.png)
+
