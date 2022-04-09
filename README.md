@@ -28,4 +28,11 @@ Q1. You get 3 weights of each value you purchase. You can thus utilize the value
 
 Q2. Note that gcd(a, b) = gcd(a, a-b) = gcd (a, a+b) and so on... Thus all destinations they should visit have the same gcd. 
 
+#### Stage 4:
+
+Q1. Straight permutations and combinations questions. There's no twist here.
+
+#### Stage 5: 
+
+Q1. Heard of a Spectrometer?
 
