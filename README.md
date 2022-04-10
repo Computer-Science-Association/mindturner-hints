@@ -50,8 +50,31 @@ Find the bit-pattern abcdefgdp (8 bits) to generate the each letter. Then conver
 
 Q1. Same as stage 5.
 
+#### Stage 9:
+
+Q1. Open the image in notepad.
+
+#### Stage 10: 
+
+Q1. (Hint 1) Crack the bit code. It contains a single word (all small letters). Use the word to find the map. 
+
+(Hint 2) The map is a program in a (surprisingly) Turing complete language. 
+
+
+#### Stage 11:
+
+Q1. The first thing is, you can always google. The second thing is, we're repeating patterns in how to find clues. 
+
+#### Stage 12:
+
+Q1. (Hint 1) A decryption is needed. The algorithm is hinted in the poem.
+
+(Hint 2) We talk about a link to a memory. What is memory, if not a collection of images? What else is a passing collection of images?
 
 
 ## Updates:
 
 - Since many people were stuck on Stage 10, we have updated the hint to that directly on the portal. Find the updated statement. 
+- Anywhere we feel like many people are stuck, we will upload the hint directly on the portal. 
+- The solutions to all the stages will be released at the end of the contest, on this page itself. Stay tuned for the answers.
+- We will try to maintain the site for those who failed to attempt the event. (No guarantees).
