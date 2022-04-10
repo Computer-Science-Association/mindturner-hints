@@ -44,3 +44,9 @@ Q1. What do we do if a python package isn't on our local machine? That's right -
 
 Q1. ![image](https://user-images.githubusercontent.com/61305934/162587485-8d8437ef-6c28-4f4c-8b1f-b1cc46d69d9b.png)
 
+Find the bit-pattern abcdefgdp (8 bits) to generate the each letter. Then convert to ASCII.
+
+#### Stage 8:
+
+Q1. Same as stage 5.
+
