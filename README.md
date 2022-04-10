@@ -50,3 +50,8 @@ Find the bit-pattern abcdefgdp (8 bits) to generate the each letter. Then conver
 
 Q1. Same as stage 5.
 
+
+
+## Updates:
+
+- Since many people were stuck on Stage 10, we have updated the hint to that directly on the portal. Find the updated statement. 
