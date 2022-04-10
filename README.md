@@ -74,6 +74,7 @@ Q1. (Hint 1) A decryption is needed. The algorithm is hinted in the poem.
 
 ## Updates:
 
+- In stage 12, the watermark in the GIF is completely unrelated and **NOT A HINT**. We regret the confusion. 
 - Since many people were stuck on Stage 10, we have updated the hint to that directly on the portal. Find the updated statement. 
 - Anywhere we feel like many people are stuck, we will upload the hint directly on the portal. 
 - The solutions to all the stages will be released at the end of the contest, on this page itself. Stay tuned for the answers.
